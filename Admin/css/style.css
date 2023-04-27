@@ -1325,7 +1325,7 @@ h3#geoChartTitle {
 }
 .climate-gd1top-left h4 {
     font-size: 1.2em;
-    color: #fff;
+    color: #000;
     margin-bottom: 0.5em;
         font-family: 'Carrois Gothic', sans-serif;
 }
@@ -1337,12 +1337,12 @@ h3#geoChartTitle {
 }
 .climate-gd1top-left p {
     font-size: 1em;
-    color: #fff;
+    color: #000;
     line-height: 2em;
 }
 .climate-gd1top-right{
 	font-size: 1em;
-    color: #fff;
+    color: #000;
     line-height: 2em;
 }
 .climate-gd1-top {
@@ -1355,25 +1355,25 @@ h3#geoChartTitle {
 }
 .cloudy1 h4 {
     font-size: 1em;
-    color: #fff;
+    color: #000;
     margin-bottom: 0.5em;
 }
 .cloudy1 {
     text-align: center;
 }
 i.fa.fa-cloud {
-    color: #fff;
+    color: #000;
     font-size: 2.5em;
     margin: 0.2em 0em 0.2em 0em;
 }
 .cloudy1 h3 {
     font-size: 1.2em;
-    color: #fff;
+    color: #000;
 }
 span.timein-pms {
     font-size: 0.4em;
     vertical-align: top;
-    color: #fff;
+    color: #000;
 }
 span.clime-icon {
     display: block;
@@ -1387,7 +1387,7 @@ span.clime-icon {
 }
 .shoppy {
     padding: 1.4em 1em;
-    background: #fff;
+    background: #000;
     box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.15);
 }
 .climate-grid2 ul {
@@ -1406,7 +1406,7 @@ span.clime-icon {
     display: inline-block;
     background: #337AB7;
     font-size: 1em;
-    color: #FFFFFF;
+    color: #000;
     line-height: 2em;
     text-align: center;
     border-radius: 4px;
@@ -1423,7 +1423,7 @@ span.clime-icon {
     display: inline-block;
     background: #337AB7;
     font-size: 1em;
-    color: #fff;
+    color: #000;
     line-height: 2em;
     text-align: center;
     border-radius: 4px;
@@ -1446,7 +1446,7 @@ span.shoppy-rate {
 span.shoppy-rate h4 {
     font-size: 1.2em;
     line-height: 3.5em;
-    color: #fff;
+    color: #000;
     font-family: 'Carrois Gothic', sans-serif;
 }
 .shoppy h3 {
@@ -1512,7 +1512,7 @@ span.shoppy-rate h4 {
 }
 .popular-follo-left p {
     font-size: 1em;
-    color: #fff;
+    color: #000;
     line-height: 1.8em;
 }
 .popular-follo-right h4 {
@@ -1533,7 +1533,7 @@ span.shoppy-rate h4 {
 }
 .climate-gd1top-right p {
     font-size: 1em;
-    color: #fff;
+    color: #000;
 }
 /*--climate end here--*/
 #style-2::-webkit-scrollbar-thumb
